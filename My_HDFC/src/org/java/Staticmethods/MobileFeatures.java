@@ -13,6 +13,12 @@ public class MobileFeatures
 	}
 	
 	
+	public static void calculator()
+	{
+		System.out.println("cal executed");
+	}
+	
+	
 	public static void main(String[] args) 
 	{
 		
